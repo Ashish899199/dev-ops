@@ -1,0 +1,15 @@
+package com.library.bookms;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BookmsApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BookmsApplication.class, args);
+	}
+
+}
+
+https://www.javaguides.net/2023/08/library-management-system-project-using-spring-boot.html
